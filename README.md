@@ -17,3 +17,7 @@ Ein einfaches Python-Projekt zur Demonstration von Datenbereinigung, -analyse un
 ## Anforderungen
 - Python 3.x
 - Bibliotheken: Pandas, Matplotlib, Seaborn
+
+## Erweiterungen
+- [x] **API-Daten laden**: Daten von JSONPlaceholder abrufen und in DataFrame umwandeln.
+- [x] **SQLite-Datenbank**: Bereinigte Daten und API-Daten in einer lokalen Datenbank speichern.
