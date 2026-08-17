@@ -1,0 +1,8 @@
+kunden_id,name,kunden_alter,umsatz,region,produkt
+1,Max Mustermann,35,1500.50,Bayern,Laptop
+2,Anna Schmidt,,2300.75,Baden-Württemberg,
+3,Peter Müller,42,1800.00,Bayern,Laptop
+4,Max Mustermann,35,1500.50,Bayern,Laptop
+5,Lisa Bauer,28,900.25,Hessen,Tablet
+6,Thomas Weber,50,3200.00,NRW,
+7,,31,1200.00,Bayern,Monitor
