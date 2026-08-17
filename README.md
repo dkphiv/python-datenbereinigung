@@ -21,3 +21,8 @@ Ein einfaches Python-Projekt zur Demonstration von Datenbereinigung, -analyse un
 ## Erweiterungen
 - [x] **API-Daten laden**: Daten von JSONPlaceholder abrufen und in DataFrame umwandeln.
 - [x] **SQLite-Datenbank**: Bereinigte Daten und API-Daten in einer lokalen Datenbank speichern.
+
+## Ausführung als Skript
+1. Repository klonen
+2. `pip install -r requirements.txt`
+3. `python daten_pipeline.py`
