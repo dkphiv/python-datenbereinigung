@@ -1,1 +1,19 @@
 # python-datenbereinigung
+
+# Datenbereinigung & Analyse mit Pandas
+Ein einfaches Python-Projekt zur Demonstration von Datenbereinigung, -analyse und -visualisierung mit Pandas, Matplotlib und Seaborn.
+
+## Inhalt
+- [x] Daten laden (CSV)
+- [x] Daten bereinigen (fehlende Werte, Duplikate, Datentypen)
+- [x] Daten analysieren (Gruppierungen, Aggregationen)
+- [x] Ergebnisse visualisieren
+
+## Verwendung
+1. Repository klonen
+2. `datenbereinigung_analyse.ipynb` in Jupyter Notebook öffnen
+3. Skript ausführen
+
+## Anforderungen
+- Python 3.x
+- Bibliotheken: Pandas, Matplotlib, Seaborn
